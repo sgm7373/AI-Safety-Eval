@@ -1,0 +1,15 @@
+{
+    "project": "AI Safety and Model Policy Evaluation",
+    "total_test_cases": 6,
+    "passed_cases": 5,
+    "failed_cases": 1,
+    "policy_compliance_rate": 83.33,
+    "policy_categories": [
+        "Harassment",
+        "Safe Content",
+        "Violence",
+        "Deception"
+    ],
+    "high_severity_cases": 2,
+    "cases_requiring_review": 1
+}
